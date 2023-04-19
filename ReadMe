@@ -1,0 +1,7 @@
+Stwórz aplikację "To Do List" z następującymi funkcjonalnościami:
+
+1. Możliwość dodawania nowych zadań do listy.
+2. Możliwość usuwania zadań z listy.
+3. Możliwość oznaczania zadań jako zakończone.
+4. Możliwość filtrowania zadań po różnych kryteriach, takich jak zakończone/niezakończone.
+5. Możliwość wyświetlania statystyk zadań, takich jak liczba zadań, liczba zakończonych zadań.
